@@ -6,7 +6,11 @@
     "description": "Explore ShredDead guides for zombie-shredding gameplay, skill tree upgrades, weapons, grunt loadouts, defenses, loot, progression tips, and game updates.",
     "legalNotice": "Unofficial fan wiki. Not affiliated with Weird Penguin Games."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms"
+  },
   "home": {
     "meta": {
       "title": "ShredDead Wiki - Skills, Weapons & Strategy",
@@ -383,7 +387,18 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "ShredDead Guide",
+    "overviewDescription": "Learn the ShredDead core loop, from fighting endless waves and collecting loot to equipping grunts and improving your outpost."
+  },
+  "mechanics": {
+    "overviewTitle": "ShredDead Mechanics",
+    "overviewDescription": "Understand ShredDead progression systems, including the skill tree, grunt equipment, zombie evolution, and upgrade choices."
+  },
+  "platforms": {
+    "overviewTitle": "ShredDead Platforms",
+    "overviewDescription": "Find ShredDead release details, supported Windows and Mac platforms, and Steam availability."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -414,9 +429,8 @@
     "officialYoutube": "Weird Penguin Games YouTube",
     "vvBuilder": "ShredDead Steam Page",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "mechanicsGuides": "Mechanics Guides",
+    "platformGuides": "Platform Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
