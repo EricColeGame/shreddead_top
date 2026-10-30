@@ -1,1 +1,437 @@
-{}
+{
+  "site": {
+    "name": "ShredDead Wiki",
+    "shortName": "ShredDead",
+    "tagline": "リラックスできるインクリメンタルゾンビストラテジー",
+    "description": "ゾンビ粉砕ゲームプレイ、スキルツリーのアップグレード、武器、グラントの装備構成、防衛、戦利品、進行のヒント、ゲームアップデートに関するShredDeadガイドを探しましょう。",
+    "legalNotice": "非公式のファンウィキです。Weird Penguin Gamesとは提携していません。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "platforms": "プラットフォーム"
+  },
+  "home": {
+    "meta": {
+      "title": "ShredDead Wiki - スキル、武器、戦略",
+      "description": "ゾンビ粉砕ゲームプレイ、スキルツリーのアップグレード、武器、グラントの装備構成、防衛、戦利品、進行のヒント、ゲームアップデートに関するShredDeadガイドを探しましょう。"
+    },
+    "hero": {
+      "eyebrow": "リラックスできるインクリメンタルゾンビストラテジー",
+      "title": "ShredDead Wiki",
+      "description": "風変わりなゾンビ粉砕ストラテジーゲーム、ShredDeadを探しましょう。スキルツリーのアップグレード、武器、グラントの装備構成、防衛、戦利品、ゾンビ進化、進行戦略について学べます。",
+      "stats": [
+        "リリース日: 2026年10月26日",
+        "ピークCCU: 1,820",
+        "シングルプレイヤー",
+        "14言語対応"
+      ],
+      "primaryCta": "Steamでプレイ",
+      "secondaryCta": "初心者ガイド",
+      "tertiaryCta": "Discordに参加",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "あなたのShredDeadの旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "コアループを学びましょう。無限のゾンビウェーブと戦い、戦利品を集め、前哨基地の建設を始めます。"
+        },
+        {
+          "number": "2",
+          "title": "アップグレードシステム",
+          "description": "スキルツリー、グラント装備、戦利品が長期的な進行にどう関わるかを理解しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "戦利品とグラント装備",
+          "description": "ゾンビの戦利品を使ってグラントを装備し、ウェーブを殲滅する構成を改善し続けましょう。"
+        },
+        {
+          "number": "4",
+          "title": "前哨基地防衛",
+          "description": "直接攻撃、グラントの支援、産業用シュレッダーを組み合わせて、より大きなウェーブに対処しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目のShredDeadガイド",
+      "quickLinks": [
+        "初心者ガイド",
+        "アップグレードシステム",
+        "前哨基地防衛",
+        "Steamプラットフォーム"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "ShredDead初心者ガイド",
+          "description": "確認済みのコアループから始めましょう。ウェーブとの戦闘から戦利品の収集、グラントの装備までを扱います。",
+          "href": "/guide/shreddead-beginner-guide"
+        },
+        {
+          "badge": "コアシステム",
+          "title": "ShredDeadアップグレードシステム",
+          "description": "スキルツリー、グラント装備、戦利品、ゾンビ進化がどのように組み合わさるかを確認しましょう。",
+          "href": "/mechanics/shreddead-upgrade-system"
+        },
+        {
+          "badge": "プラットフォーム",
+          "title": "ShredDead Steamプラットフォーム",
+          "description": "リリース日と、SteamでのWindows、macOS、Linuxの対応状況を確認しましょう。",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date"
+        },
+        {
+          "badge": "防衛",
+          "title": "ShredDead前哨基地防衛",
+          "description": "直接戦闘、グラントの支援、産業用シュレッダー、無限ウェーブを踏まえて計画しましょう。",
+          "href": "/guide/shreddead-beginner-guide"
+        },
+        {
+          "badge": "進行",
+          "title": "ShredDeadスキルツリー",
+          "description": "分岐するスキルツリーを使って、ゾンビを排除する構成を改善しましょう。",
+          "href": "/mechanics/shreddead-upgrade-system"
+        },
+        {
+          "badge": "リリース",
+          "title": "ShredDeadリリース日",
+          "description": "Steamでの配信日と対応デスクトッププラットフォームをまとめて確認しましょう。",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "ShredDeadとは？",
+      "paragraphs": [
+        "ShredDeadはWeird Penguin Gamesによる、風変わりでリラックスできるインクリメンタルなゾンビ粉砕ゲームです。敗北条件なしの進行に焦点を当て、プレイヤーは戦利品を集め、スキルツリーを育て、ゾンビを進化させながら無限ウェーブに挑みます。",
+        "直接戦うことも、戦利品でグラントを装備してウェーブ処理を助けることも、産業用シュレッダーでゾンビを処分することもできます。ShredDeadは2026年10月26日にWindowsとmacOS向けにSteamで配信され、このウィキでは主要システムに関する実用的なガイドをまとめています。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Weird Penguin Games"
+        },
+        {
+          "label": "パブリッシャー",
+          "value": "Weird Penguin Games"
+        },
+        {
+          "label": "リリース日",
+          "value": "2026年10月26日"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Windows & macOS"
+        },
+        {
+          "label": "ジャンル",
+          "value": "インクリメンタルゾンビストラテジー"
+        },
+        {
+          "label": "ゲームモード",
+          "value": "シングルプレイヤー"
+        },
+        {
+          "label": "ピークCCU",
+          "value": "1,820"
+        },
+        {
+          "label": "言語",
+          "value": "14"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "ShredDead Wikiを探索",
+      "description": "ShredDeadのコアループ、スキルツリー、グラントの装備構成、防衛、ゾンビ進化、実績、操作、Steamプラットフォームの詳細について学びましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "ShredDead初心者ガイド",
+          "description": "無限のゾンビウェーブ、戦利品の収集、グラントの支援、スキルアップグレード、産業用シュレッダーを含むコアゲームプレイループを学びましょう。",
+          "href": "/guide/shreddead-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "最初のウェーブを自分で戦い、ゾンビの移動と攻撃の仕方を学びましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "倒したゾンビが落とす戦利品を集め、グラントの装備に使いましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "スキルツリーを開き、ゾンビ排除を改善するアップグレードを試しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "産業用シュレッダーとマッドサイエンティストのゾンビ進化システムを試しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "ShredDeadスキルツリーガイド",
+          "description": "分岐するスキルツリーが長期的な進行を支え、あなたの構成がゾンビをより効率的に排除するのにどう役立つかを理解しましょう。",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "分岐",
+              "detail": "すでに使っている武器やグラントに合うスキル分岐を選びましょう。"
+            },
+            {
+              "label": "アップグレード",
+              "detail": "進行リソースを投入する前に、ゲーム内ツリーの各ノードを確認しましょう。"
+            },
+            {
+              "label": "計画",
+              "detail": "敗北条件なしの設計を活かして、さまざまなアップグレード経路を試しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "ShredDead武器と装備ガイド",
+          "description": "前哨基地防衛で担いたい戦闘役割に合わせて、武器、戦利品、グラントの装備構成を計画しましょう。",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "グラントの装備構成を改善する最も分かりやすい出発点として、ゾンビの戦利品を使いましょう。"
+            },
+            {
+              "label": "A",
+              "detail": "装備の選択を、最もよく使う武器と戦闘スタイルに合わせましょう。"
+            },
+            {
+              "label": "B",
+              "detail": "機能している装備構成を置き換える前に、ゲーム内で各アイテムの説明を読みましょう。"
+            },
+            {
+              "label": "C",
+              "detail": "ウェーブが大きくなるにつれて新しい組み合わせを試せるよう、予備の装備を用意しておきましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "ShredDeadゾンビ進化ガイド",
+          "description": "マッドサイエンティストのゾンビ進化機能が、無限ウェーブループにさらなる進行レイヤーをどう追加するかを確認しましょう。",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "進化",
+              "detail": "マッドサイエンティストを使うと、進行ループの一環としてゾンビ進化を加速できます。"
+            },
+            {
+              "label": "ウェーブ",
+              "detail": "ゾンビを進化させることで、すでに直面している無限ウェーブ戦闘に新しいレイヤーが加わります。"
+            },
+            {
+              "label": "進行",
+              "detail": "進化を、スキルや戦利品と並んで探求する長期的なシステムとして捉えましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "ShredDead前哨基地防衛ガイド",
+          "description": "自身の攻撃、グラントの支援、戦利品によるアップグレード、産業用シュレッダーを組み合わせた防衛を構築しましょう。",
+          "href": "/guide/shreddead-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ウェーブサイクルの奥へ進む前に、前哨基地の周りに信頼できる防衛を構築しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "直接攻撃とグラントを組み合わせ、防衛が複数の角度からダメージを与えられるようにしましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "防衛線に到達したゾンビを処分する主要な手段として、産業用シュレッダーを使いましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "ウェーブが大きくなるにつれて、戦利品をグラント装備とスキルアップグレードに再投資しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "ShredDead実績ガイド",
+          "description": "ShredDeadの無限ウェーブを進めながら、確認する価値のあるマイルストーンと進行システムを追いましょう。",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "リリース済みゲームに対応する実績リストは、ShredDeadのSteamページで確認しましょう。"
+            },
+            {
+              "label": "マイルストーン",
+              "detail": "コアループを探索しながら、ウェーブ、戦利品、進行のマイルストーンを追いましょう。"
+            },
+            {
+              "label": "チェックリスト",
+              "detail": "グラント、スキル、進化など、試したシステムの簡単なチェックリストを作っておきましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "ShredDeadの操作と設定",
+          "description": "デスクトップ環境で快適なShredDeadプレイを形作る操作と設定を確認しましょう。",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "移動",
+              "detail": "ゲーム内の操作メニューを確認し、自分の環境での移動キーを確かめましょう。"
+            },
+            {
+              "label": "戦闘",
+              "detail": "長時間のウェーブに挑む前に、直接攻撃とグラントへの指令の割り当てを確認しましょう。"
+            },
+            {
+              "label": "設定",
+              "detail": "快適なインクリメンタルプレイのために、表示と入力のオプションを調整しましょう。"
+            },
+            {
+              "label": "入力",
+              "detail": "自分のデスクトップ環境に最も合う、対応している入力方法を使いましょう。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "ShredDeadのシステム要件とプラットフォーム",
+          "description": "ShredDeadの確認済みSteamプラットフォーム、リリース日、対応オペレーティングシステムを確認しましょう。",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Windows",
+              "detail": "Steamのプラットフォーム掲載情報によると対応しています。"
+            },
+            {
+              "label": "macOS",
+              "detail": "Steamのプラットフォーム掲載情報によると対応しています。"
+            },
+            {
+              "label": "Linux",
+              "detail": "Steamのプラットフォーム掲載情報では対応として記載されていません。"
+            },
+            {
+              "label": "Steam",
+              "detail": "ShredDeadは2026年10月26日にSteamで配信されました。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "ShredDead FAQ",
+      "description": "ShredDeadのゲームプレイ、進行、プラットフォームに関するよくある質問への簡単な回答。",
+      "items": [
+        {
+          "question": "ShredDeadとは何ですか？",
+          "answer": "ShredDeadはWeird Penguin Gamesによる、風変わりでリラックスできるインクリメンタルなゾンビ粉砕ゲームで、無限ウェーブと敗北条件なしの進行を中心に構成されています。"
+        },
+        {
+          "question": "ShredDeadに敗北条件はありますか？",
+          "answer": "いいえ。公式のShredDeadの説明では敗北条件がないとされているため、進行システムを自由に試し続けられます。"
+        },
+        {
+          "question": "ShredDeadでグラントを装備できますか？",
+          "answer": "はい。ShredDeadのゾンビは戦利品を落とし、それをグラントの装備に使えます。また、そのグラントは無限ウェーブの処理を助けます。"
+        },
+        {
+          "question": "ShredDeadのスキルツリーには何の役割がありますか？",
+          "answer": "ShredDeadのスキルツリーは、ゾンビを排除する方法を改善するための進行システムで、戦利品やグラントのアップグレードと並行して探求できる分岐があります。"
+        },
+        {
+          "question": "ShredDeadでシュレッダーは何に使われますか？",
+          "answer": "ShredDeadには、前哨基地の防衛線に到達したゾンビを処分する手段として、産業用シュレッダーがあります。"
+        },
+        {
+          "question": "ShredDeadはどのプラットフォームに対応していますか？",
+          "answer": "ShredDeadはSteamでWindowsとmacOS向けに掲載されています。LinuxはShredDeadの対応プラットフォームとして掲載されていません。"
+        },
+        {
+          "question": "ShredDeadはいつリリースされましたか？",
+          "answer": "公式ストア掲載情報によると、ShredDeadは2026年10月26日にSteamでリリースされました。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "ShredDeadをマスターする準備はできましたか？",
+      "description": "無料で最新のガイドを使って、防衛を築き、スキルツリーをアップグレードし、無限のゾンビウェーブを粉砕しましょう。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "ShredDeadガイド",
+    "overviewDescription": "無限ウェーブとの戦闘や戦利品の収集から、グラントの装備や前哨基地の改善まで、ShredDeadのコアループを学びましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "ShredDeadメカニクス",
+    "overviewDescription": "スキルツリー、グラント装備、ゾンビ進化、アップグレードの選択を含むShredDeadの進行システムを理解しましょう。"
+  },
+  "platforms": {
+    "overviewTitle": "ShredDeadプラットフォーム",
+    "overviewDescription": "ShredDeadのリリース詳細、対応するWindowsとMacのプラットフォーム、Steamでの提供状況を確認しましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Steamでプレイ",
+    "inThisSection": "このセクション内",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "利用可能なガイドはまだありません。近日中に再度確認してください。"
+  },
+  "footer": {
+    "aboutTitle": "ShredDead Wiki",
+    "about": "ShredDead Wikiは、新規プレイヤーとベテランプレイヤー向けに、スキルツリーのアップグレード、武器、グラントの装備構成、防衛、戦利品、ゾンビ進化、進行戦略を扱う独立したファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 ShredDead Wiki。Weird Penguin GamesまたはValveとは提携していません。",
+    "description": "リラックスできるインクリメンタルなゾンビ粉砕ストラテジー。防衛を築き、スキルをアップグレードし、無限ウェーブを生き延びましょう。",
+    "playGame": "SteamでShredDeadをプレイ",
+    "officialDiscord": "ShredDead Discord",
+    "officialYoutube": "Weird Penguin Games YouTube",
+    "vvBuilder": "ShredDead Steamページ",
+    "beginnerGuide": "初心者ガイド",
+    "mechanicsGuides": "メカニクスガイド",
+    "platformGuides": "プラットフォームガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

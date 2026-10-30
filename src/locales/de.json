@@ -1,1 +1,437 @@
-{}
+{
+  "site": {
+    "name": "ShredDead Wiki",
+    "shortName": "ShredDead",
+    "tagline": "Entspannende inkrementelle Zombie-Strategie",
+    "description": "Entdecke ShredDead-Leitfäden zu Zombie-Schredder-Spielablauf, Fertigkeitsbaum-Verbesserungen, Waffen, Grunts-Ausrüstungen, Verteidigungen, Beute, Fortschrittstipps und Spiel-Updates.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Nicht mit Weird Penguin Games verbunden."
+  },
+  "nav": {
+    "guide": "Leitfaden",
+    "mechanics": "Mechaniken",
+    "platforms": "Plattformen"
+  },
+  "home": {
+    "meta": {
+      "title": "ShredDead Wiki – Fertigkeiten, Waffen & Strategie",
+      "description": "Entdecke ShredDead-Leitfäden zu Zombie-Schredder-Spielablauf, Fertigkeitsbaum-Verbesserungen, Waffen, Grunts-Ausrüstungen, Verteidigungen, Beute, Fortschrittstipps und Spiel-Updates."
+    },
+    "hero": {
+      "eyebrow": "Entspannende inkrementelle Zombie-Strategie",
+      "title": "ShredDead Wiki",
+      "description": "Entdecke ShredDead, ein schrulliges Zombie-Schredder-Strategiespiel. Erfahre mehr über Fertigkeitsbaum-Verbesserungen, Waffen, Grunts-Ausrüstungen, Verteidigungen, Beute, Zombie-Evolution und Fortschrittsstrategien.",
+      "stats": [
+        "Veröffentlichungsdatum: 26. Okt. 2026",
+        "Spitzen-CCU: 1,820",
+        "Einzelspieler",
+        "14 unterstützte Sprachen"
+      ],
+      "primaryCta": "Auf Steam spielen",
+      "secondaryCta": "Einsteigerleitfaden",
+      "tertiaryCta": "Dem Discord beitreten",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine ShredDead-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerleitfaden",
+          "description": "Lerne die Kernschleife kennen: Bekämpfe endlose Zombiewellen, sammle Beute und beginne mit dem Aufbau deines Außenpostens."
+        },
+        {
+          "number": "2",
+          "title": "Verbesserungssystem",
+          "description": "Verstehe, wie Fertigkeitsbaum, Grunts-Ausrüstung und Beute in den langfristigen Fortschritt passen."
+        },
+        {
+          "number": "3",
+          "title": "Beute und Grunts-Ausrüstung",
+          "description": "Nutze Zombie-Beute, um deine Grunts auszurüsten und dein Wellenräum-Setup stetig zu verbessern."
+        },
+        {
+          "number": "4",
+          "title": "Außenpostenverteidigung",
+          "description": "Kombiniere direkte Angriffe, Grunt-Unterstützung und den industriellen Schredder, um größere Wellen zu bewältigen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Beliebte ShredDead-Leitfäden",
+      "quickLinks": [
+        "Einsteigerleitfaden",
+        "Verbesserungssystem",
+        "Außenpostenverteidigung",
+        "Steam-Plattformen"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "ShredDead-Einsteigerleitfaden",
+          "description": "Beginne mit der bestätigten Kernschleife – vom Bekämpfen von Wellen bis zum Sammeln von Beute und Ausrüsten von Grunts.",
+          "href": "/guide/shreddead-beginner-guide"
+        },
+        {
+          "badge": "Kernsystem",
+          "title": "ShredDead-Verbesserungssystem",
+          "description": "Erfahre, wie Fertigkeitsbaum, Grunts-Ausrüstung, Beute und Zombie-Evolution zusammenpassen.",
+          "href": "/mechanics/shreddead-upgrade-system"
+        },
+        {
+          "badge": "Plattformen",
+          "title": "ShredDead Steam-Plattformen",
+          "description": "Prüfe das Veröffentlichungsdatum sowie die Verfügbarkeit für Windows, macOS und Linux auf Steam.",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date"
+        },
+        {
+          "badge": "Verteidigung",
+          "title": "ShredDead-Außenpostenverteidigung",
+          "description": "Plane mit direktem Kampf, Grunt-Unterstützung, dem industriellen Schredder und endlosen Wellen.",
+          "href": "/guide/shreddead-beginner-guide"
+        },
+        {
+          "badge": "Fortschritt",
+          "title": "ShredDead-Fertigkeitsbaum",
+          "description": "Nutze den verzweigten Fertigkeitsbaum, um zu verbessern, wie dein Setup Zombies eliminiert.",
+          "href": "/mechanics/shreddead-upgrade-system"
+        },
+        {
+          "badge": "Veröffentlichung",
+          "title": "ShredDead-Veröffentlichungsdatum",
+          "description": "Prüfe das Steam-Startdatum und die unterstützten Desktop-Plattformen an einem Ort.",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist ShredDead?",
+      "paragraphs": [
+        "ShredDead ist ein schrulliges, entspannendes inkrementelles Zombie-Schredder-Spiel von Weird Penguin Games. Es setzt auf Fortschritt ohne Verlustbedingungen und stellt Spieler endlosen Wellen gegenüber, während sie Beute sammeln, einen Fertigkeitsbaum ausbauen und die Zombies weiterentwickeln.",
+        "Du kannst direkt kämpfen, Grunts mit Beute ausrüsten, damit sie bei der Bewältigung der Wellen helfen, und einen industriellen Schredder nutzen, um Zombies zu entsorgen. ShredDead ist am 26. Oktober 2026 auf Steam für Windows und macOS erschienen, und dieses Wiki sammelt praktische Leitfäden zu seinen Kernsystemen."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Weird Penguin Games"
+        },
+        {
+          "label": "Publisher",
+          "value": "Weird Penguin Games"
+        },
+        {
+          "label": "Veröffentlichungsdatum",
+          "value": "26. Okt. 2026"
+        },
+        {
+          "label": "Plattformen",
+          "value": "Windows & macOS"
+        },
+        {
+          "label": "Genre",
+          "value": "Inkrementelle Zombie-Strategie"
+        },
+        {
+          "label": "Spielmodus",
+          "value": "Einzelspieler"
+        },
+        {
+          "label": "Spitzen-CCU",
+          "value": "1,820"
+        },
+        {
+          "label": "Sprachen",
+          "value": "14"
+        }
+      ],
+      "cta": "Alle Leitfäden entdecken"
+    },
+    "explore": {
+      "title": "Erkunde das ShredDead Wiki",
+      "description": "Lerne die Kernschleife, den Fertigkeitsbaum, Grunts-Ausrüstungen, Verteidigungen, Zombie-Evolution, Erfolge, Steuerung und Steam-Plattformdetails von ShredDead kennen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "ShredDead-Einsteigerleitfaden",
+          "description": "Lerne die zentrale Spielschleife kennen, einschließlich endloser Zombiewellen, Beutesammlung, Grunt-Unterstützung, Fertigkeitsverbesserungen und des industriellen Schredders.",
+          "href": "/guide/shreddead-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Bekämpfe die ersten Wellen selbst und lerne, wie sich Zombies bewegen und angreifen."
+            },
+            {
+              "label": "2",
+              "detail": "Sammle Beute von besiegten Zombies und nutze sie, um deine Grunts auszurüsten."
+            },
+            {
+              "label": "3",
+              "detail": "Öffne den Fertigkeitsbaum und teste Verbesserungen, die die Zombie-Eliminierung verbessern."
+            },
+            {
+              "label": "4",
+              "detail": "Probiere den industriellen Schredder und das Zombie-Evolutionssystem des verrückten Wissenschaftlers aus."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "ShredDead-Leitfaden zum Fertigkeitsbaum",
+          "description": "Verstehe, wie der verzweigte Fertigkeitsbaum langfristigen Fortschritt unterstützt und deinem Setup hilft, Zombies effizienter zu eliminieren.",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Zweige",
+              "detail": "Wähle Fertigkeitszweige, die zu den Waffen und Grunts passen, die du bereits verwendest."
+            },
+            {
+              "label": "Verbesserungen",
+              "detail": "Prüfe jeden Knoten im Spielbaum, bevor du deine Fortschrittsressourcen einsetzt."
+            },
+            {
+              "label": "Planung",
+              "detail": "Nutze das Design ohne Verlustbedingungen, um mit verschiedenen Verbesserungspfaden zu experimentieren."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "ShredDead-Leitfaden für Waffen und Ausrüstung",
+          "description": "Plane deine Waffen, Beute und Grunts-Ausrüstungen entsprechend der Kampfrolle, die deine Außenpostenverteidigung abdecken soll.",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Nutze Zombie-Beute als klarsten Ausgangspunkt, um die Ausrüstung deiner Grunts zu verbessern."
+            },
+            {
+              "label": "A",
+              "detail": "Stimme deine Ausrüstungswahl auf die Waffen und den Kampfstil ab, die du am häufigsten verwendest."
+            },
+            {
+              "label": "B",
+              "detail": "Lies jede Gegenstandsbeschreibung im Spiel, bevor du eine funktionierende Ausrüstung ersetzt."
+            },
+            {
+              "label": "C",
+              "detail": "Halte Ersatzausrüstung bereit, um neue Kombinationen zu testen, wenn die Wellen größer werden."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "ShredDead-Leitfaden zur Zombie-Evolution",
+          "description": "Erfahre, wie die Zombie-Evolutionsfunktion des verrückten Wissenschaftlers eine weitere Fortschrittsebene zur Endloswellen-Schleife hinzufügt.",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Entwickeln",
+              "detail": "Der verrückte Wissenschaftler ermöglicht es dir, die Zombie-Evolution als Teil der Fortschrittsschleife zu beschleunigen."
+            },
+            {
+              "label": "Wellen",
+              "detail": "Die Weiterentwicklung von Zombies fügt dem Endloswellenkampf, dem du bereits gegenüberstehst, eine neue Ebene hinzu."
+            },
+            {
+              "label": "Fortschritt",
+              "detail": "Betrachte die Evolution als langfristiges System, das du neben Fertigkeiten und Beute erkunden kannst."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "ShredDead-Leitfaden zur Außenpostenverteidigung",
+          "description": "Baue eine Verteidigung auf, die deine eigenen Angriffe, Grunt-Unterstützung, Beute-Verbesserungen und den industriellen Schredder kombiniert.",
+          "href": "/guide/shreddead-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Baue eine zuverlässige Verteidigung um deinen Außenposten auf, bevor du tiefer in den Wellenzyklus vordringst."
+            },
+            {
+              "label": "2",
+              "detail": "Kombiniere direkte Angriffe mit Grunts, damit deine Verteidigung aus mehreren Richtungen Schaden verursacht."
+            },
+            {
+              "label": "3",
+              "detail": "Nutze den industriellen Schredder als vorgesehene Möglichkeit, Zombies zu entsorgen, die deine Verteidigungen erreichen."
+            },
+            {
+              "label": "4",
+              "detail": "Investiere Beute erneut in Grunts-Ausrüstung und Fertigkeitsverbesserungen, wenn die Wellen größer werden."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "ShredDead-Leitfaden zu Erfolgen",
+          "description": "Verfolge die Meilensteine und Fortschrittssysteme, die es sich anzusehen lohnt, während du dich durch ShredDeads endlose Wellen arbeitest.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "Prüfe die ShredDead-Seite auf Steam auf die Erfolgsliste, die zum veröffentlichten Spiel gehört."
+            },
+            {
+              "label": "Meilensteine",
+              "detail": "Verfolge Wellen-, Beute- und Fortschrittsmeilensteine, während du die Kernschleife erkundest."
+            },
+            {
+              "label": "Checkliste",
+              "detail": "Führe eine einfache Checkliste der Systeme, die du ausprobiert hast, einschließlich Grunts, Fertigkeiten und Evolution."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "ShredDead-Steuerung und -Einstellungen",
+          "description": "Überprüfe die Steuerung und Einstellungen, die eine komfortable ShredDead-Sitzung auf deiner Desktop-Konfiguration prägen.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bewegung",
+              "detail": "Überprüfe das Steuerungsmenü im Spiel, um die Bewegungstasten auf deiner Konfiguration zu bestätigen."
+            },
+            {
+              "label": "Kampf",
+              "detail": "Prüfe, wie direkte Angriffe und Grunt-Befehle belegt sind, bevor du einen langen Wellenlauf startest."
+            },
+            {
+              "label": "Einstellungen",
+              "detail": "Passe Anzeige- und Eingabeoptionen für eine komfortable inkrementelle Sitzung an."
+            },
+            {
+              "label": "Eingabe",
+              "detail": "Nutze die unterstützte Eingabemethode, die sich für deine Desktop-Konfiguration am besten anfühlt."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "ShredDead-Systemanforderungen und Plattformen",
+          "description": "Prüfe die bestätigten Steam-Plattformen, das Veröffentlichungsdatum und die Verfügbarkeit der Betriebssysteme für ShredDead.",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Windows",
+              "detail": "Laut der Steam-Plattformauflistung unterstützt."
+            },
+            {
+              "label": "macOS",
+              "detail": "Laut der Steam-Plattformauflistung unterstützt."
+            },
+            {
+              "label": "Linux",
+              "detail": "Nicht als unterstützt in der Steam-Plattformauflistung aufgeführt."
+            },
+            {
+              "label": "Steam",
+              "detail": "ShredDead ist am 26. Oktober 2026 auf Steam erschienen."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "ShredDead FAQ",
+      "description": "Schnelle Antworten auf häufige Fragen zu ShredDead-Spielablauf, Fortschritt und Plattformen.",
+      "items": [
+        {
+          "question": "Was ist ShredDead?",
+          "answer": "ShredDead ist ein schrulliges, entspannendes inkrementelles Zombie-Schredder-Spiel von Weird Penguin Games, das auf endlosen Wellen und Fortschritt ohne Verlustbedingungen aufbaut."
+        },
+        {
+          "question": "Hat ShredDead eine Verlustbedingung?",
+          "answer": "Nein. Die offizielle ShredDead-Beschreibung besagt, dass das Spiel keine Verlustbedingungen hat, sodass du weiter mit seinen Fortschrittssystemen experimentieren kannst."
+        },
+        {
+          "question": "Kann ich Grunts in ShredDead ausrüsten?",
+          "answer": "Ja. ShredDead-Zombies lassen Beute fallen, die du nutzen kannst, um deine Grunts auszurüsten, und diese Grunts können helfen, die endlosen Wellen zu bewältigen."
+        },
+        {
+          "question": "Was bewirkt der ShredDead-Fertigkeitsbaum?",
+          "answer": "Der ShredDead-Fertigkeitsbaum ist ein Fortschrittssystem, mit dem du verbesserst, wie du Zombies eliminierst, mit Zweigen, die du neben Beute und Grunt-Verbesserungen erkunden kannst."
+        },
+        {
+          "question": "Wofür wird der Schredder in ShredDead verwendet?",
+          "answer": "ShredDead bietet einen industriellen Schredder als Möglichkeit, Zombies zu entsorgen, die deine Außenpostenverteidigungen erreichen."
+        },
+        {
+          "question": "Welche Plattformen unterstützen ShredDead?",
+          "answer": "ShredDead ist auf Steam für Windows und macOS aufgeführt. Linux ist nicht als unterstützte Plattform für ShredDead aufgeführt."
+        },
+        {
+          "question": "Wann wurde ShredDead veröffentlicht?",
+          "answer": "ShredDead wurde laut offiziellem Shop-Eintrag am 26. Oktober 2026 auf Steam veröffentlicht."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, ShredDead zu meistern?",
+      "description": "Baue Verteidigungen auf, verbessere deinen Fertigkeitsbaum und schreddere endlose Zombiewellen mit unseren kostenlosen, aktuellen Leitfäden.",
+      "primary": "Lies den Einsteigerleitfaden",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "ShredDead-Leitfaden",
+    "overviewDescription": "Lerne die ShredDead-Kernschleife kennen – vom Bekämpfen endloser Wellen und Sammeln von Beute bis zum Ausrüsten von Grunts und Verbessern deines Außenpostens."
+  },
+  "mechanics": {
+    "overviewTitle": "ShredDead-Mechaniken",
+    "overviewDescription": "Verstehe die ShredDead-Fortschrittssysteme, einschließlich Fertigkeitsbaum, Grunts-Ausrüstung, Zombie-Evolution und Verbesserungsentscheidungen."
+  },
+  "platforms": {
+    "overviewTitle": "ShredDead-Plattformen",
+    "overviewDescription": "Finde Details zur ShredDead-Veröffentlichung, unterstützte Windows- und Mac-Plattformen und die Steam-Verfügbarkeit."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "ShredDead Wiki",
+    "about": "ShredDead Wiki ist ein unabhängiger, von Fans erstellter Leitfaden-Hub zu Fertigkeitsbaum-Verbesserungen, Waffen, Grunts-Ausrüstungen, Verteidigungen, Beute, Zombie-Evolution und Fortschrittsstrategien für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 ShredDead Wiki. Nicht mit Weird Penguin Games oder Valve verbunden.",
+    "description": "Entspannende inkrementelle Zombie-Schredder-Strategie. Baue Verteidigungen auf, verbessere Fertigkeiten und überlebe endlose Wellen.",
+    "playGame": "Spiele ShredDead auf Steam",
+    "officialDiscord": "ShredDead Discord",
+    "officialYoutube": "Weird Penguin Games YouTube",
+    "vvBuilder": "ShredDead Steam-Seite",
+    "beginnerGuide": "Einsteigerleitfaden",
+    "mechanicsGuides": "Mechanik-Leitfäden",
+    "platformGuides": "Plattform-Leitfäden",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

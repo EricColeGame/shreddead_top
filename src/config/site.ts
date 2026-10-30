@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.gg/JGkyqCEcVk",
     youtube: "https://www.youtube.com/@weirdpenguingames7974/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "ja", "de"],
   defaultLocale: "en",
 };

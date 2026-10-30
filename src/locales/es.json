@@ -1,1 +1,437 @@
-{}
+{
+  "site": {
+    "name": "Wiki de ShredDead",
+    "shortName": "ShredDead",
+    "tagline": "Estrategia relajante incremental de zombis",
+    "description": "Explora las guías de ShredDead sobre la jugabilidad de trituración de zombis, mejoras del árbol de habilidades, armas, equipamiento de soldados, defensas, botín, consejos de progresión y actualizaciones del juego.",
+    "legalNotice": "Wiki de fans no oficial. No está afiliada a Weird Penguin Games."
+  },
+  "nav": {
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "platforms": "Plataformas"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de ShredDead - Habilidades, armas y estrategia",
+      "description": "Explora las guías de ShredDead sobre la jugabilidad de trituración de zombis, mejoras del árbol de habilidades, armas, equipamiento de soldados, defensas, botín, consejos de progresión y actualizaciones del juego."
+    },
+    "hero": {
+      "eyebrow": "Estrategia relajante incremental de zombis",
+      "title": "Wiki de ShredDead",
+      "description": "Explora ShredDead, un peculiar juego de estrategia de trituración de zombis. Aprende sobre mejoras del árbol de habilidades, armas, equipamiento de soldados, defensas, botín, evolución de zombis y estrategias de progresión.",
+      "stats": [
+        "Fecha de lanzamiento: 26 de octubre de 2026",
+        "Pico de CCU: 1,820",
+        "Un jugador",
+        "14 idiomas compatibles"
+      ],
+      "primaryCta": "Jugar en Steam",
+      "secondaryCta": "Guía para principiantes",
+      "tertiaryCta": "Únete al Discord",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en ShredDead",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el bucle principal: combate oleadas infinitas de zombis, recoge botín y empieza a construir tu puesto avanzado."
+        },
+        {
+          "number": "2",
+          "title": "Sistema de mejoras",
+          "description": "Comprende cómo el árbol de habilidades, el equipo de los soldados y el botín encajan en la progresión a largo plazo."
+        },
+        {
+          "number": "3",
+          "title": "Botín y equipo de soldados",
+          "description": "Usa el botín de zombis para equipar a tus soldados y seguir mejorando tu configuración para limpiar oleadas."
+        },
+        {
+          "number": "4",
+          "title": "Defensa del puesto avanzado",
+          "description": "Combina ataques directos, apoyo de soldados y la trituradora industrial para gestionar oleadas más grandes."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías de ShredDead en tendencia",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Sistema de mejoras",
+        "Defensa del puesto avanzado",
+        "Plataformas de Steam"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes de ShredDead",
+          "description": "Empieza con el bucle principal confirmado, desde combatir oleadas hasta recoger botín y equipar soldados.",
+          "href": "/guide/shreddead-beginner-guide"
+        },
+        {
+          "badge": "Sistema principal",
+          "title": "Sistema de mejoras de ShredDead",
+          "description": "Descubre cómo encajan el árbol de habilidades, el equipo de los soldados, el botín y la evolución de los zombis.",
+          "href": "/mechanics/shreddead-upgrade-system"
+        },
+        {
+          "badge": "Plataformas",
+          "title": "Plataformas de ShredDead en Steam",
+          "description": "Revisa la fecha de lanzamiento y la disponibilidad para Windows, macOS y Linux en Steam.",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date"
+        },
+        {
+          "badge": "Defensa",
+          "title": "Defensa del puesto avanzado de ShredDead",
+          "description": "Planifica en torno al combate directo, el apoyo de soldados, la trituradora industrial y las oleadas infinitas.",
+          "href": "/guide/shreddead-beginner-guide"
+        },
+        {
+          "badge": "Progresión",
+          "title": "Árbol de habilidades de ShredDead",
+          "description": "Usa el árbol de habilidades ramificado para mejorar cómo tu configuración elimina zombis.",
+          "href": "/mechanics/shreddead-upgrade-system"
+        },
+        {
+          "badge": "Lanzamiento",
+          "title": "Fecha de lanzamiento de ShredDead",
+          "description": "Consulta la fecha de lanzamiento en Steam y las plataformas de escritorio compatibles en un solo lugar.",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es ShredDead?",
+      "paragraphs": [
+        "ShredDead es un peculiar juego relajante e incremental de trituración de zombis de Weird Penguin Games. Se centra en la progresión sin condiciones de derrota, enfrentando a los jugadores a oleadas infinitas mientras recogen botín, desarrollan un árbol de habilidades y evolucionan a los zombis.",
+        "Puedes combatir directamente, equipar a los soldados con botín para ayudar a gestionar las oleadas y usar una trituradora industrial para deshacerte de los zombis. ShredDead se lanzó en Steam para Windows y macOS el 26 de octubre de 2026, y esta wiki reúne guías prácticas sobre sus sistemas principales."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Weird Penguin Games"
+        },
+        {
+          "label": "Distribuidora",
+          "value": "Weird Penguin Games"
+        },
+        {
+          "label": "Fecha de lanzamiento",
+          "value": "26 de octubre de 2026"
+        },
+        {
+          "label": "Plataformas",
+          "value": "Windows y macOS"
+        },
+        {
+          "label": "Género",
+          "value": "Estrategia incremental de zombis"
+        },
+        {
+          "label": "Modo de juego",
+          "value": "Un jugador"
+        },
+        {
+          "label": "Pico de CCU",
+          "value": "1,820"
+        },
+        {
+          "label": "Idiomas",
+          "value": "14"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la Wiki de ShredDead",
+      "description": "Aprende el bucle principal de ShredDead, el árbol de habilidades, el equipamiento de soldados, las defensas, la evolución de zombis, los logros, los controles y los detalles de las plataformas de Steam.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de ShredDead",
+          "description": "Aprende el bucle de juego principal, incluidas las oleadas infinitas de zombis, la recogida de botín, el apoyo de soldados, las mejoras de habilidades y la trituradora industrial.",
+          "href": "/guide/shreddead-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Combate tú mismo las primeras oleadas y aprende cómo se mueven y atacan los zombis."
+            },
+            {
+              "label": "2",
+              "detail": "Recoge el botín que sueltan los zombis derrotados y úsalo para equipar a tus soldados."
+            },
+            {
+              "label": "3",
+              "detail": "Abre el árbol de habilidades y prueba mejoras que aumenten la eliminación de zombis."
+            },
+            {
+              "label": "4",
+              "detail": "Prueba la trituradora industrial y el sistema de evolución de zombis del científico loco."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía del árbol de habilidades de ShredDead",
+          "description": "Comprende cómo el árbol de habilidades ramificado favorece la progresión a largo plazo y ayuda a que tu configuración elimine zombis con mayor eficiencia.",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ramas",
+              "detail": "Elige ramas de habilidades que encajen con las armas y los soldados que ya usas."
+            },
+            {
+              "label": "Mejoras",
+              "detail": "Revisa cada nodo del árbol dentro del juego antes de comprometer tus recursos de progresión."
+            },
+            {
+              "label": "Planificación",
+              "detail": "Aprovecha el diseño sin condiciones de derrota para experimentar con distintas rutas de mejora."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de armas y equipo de ShredDead",
+          "description": "Planifica tus armas, tu botín y el equipamiento de tus soldados en función del rol de combate que quieras que cubra la defensa de tu puesto avanzado.",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Usa el botín de zombis como el punto de partida más claro para mejorar el equipamiento de tus soldados."
+            },
+            {
+              "label": "A",
+              "detail": "Ajusta la elección de equipo a las armas y al estilo de combate que más uses."
+            },
+            {
+              "label": "B",
+              "detail": "Lee la descripción de cada objeto en el juego antes de reemplazar un equipamiento que funcione."
+            },
+            {
+              "label": "C",
+              "detail": "Mantén equipo de repuesto disponible para probar nuevas combinaciones a medida que crecen las oleadas."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de evolución de zombis de ShredDead",
+          "description": "Descubre cómo la función de evolución de zombis del científico loco añade otra capa de progresión al bucle de oleadas infinitas.",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Evoluciona",
+              "detail": "El científico loco te permite acelerar la evolución de los zombis como parte del bucle de progresión."
+            },
+            {
+              "label": "Oleadas",
+              "detail": "La evolución de los zombis añade una nueva capa al combate de oleadas infinitas al que ya te enfrentas."
+            },
+            {
+              "label": "Progreso",
+              "detail": "Considera la evolución como un sistema a largo plazo que puedes explorar junto con las habilidades y el botín."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de defensa del puesto avanzado de ShredDead",
+          "description": "Crea una defensa que combine tus propios ataques, el apoyo de los soldados, las mejoras de botín y la trituradora industrial.",
+          "href": "/guide/shreddead-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Construye una defensa fiable alrededor de tu puesto avanzado antes de adentrarte más en el ciclo de oleadas."
+            },
+            {
+              "label": "2",
+              "detail": "Combina ataques directos con soldados para que tu defensa inflija daño desde varios ángulos."
+            },
+            {
+              "label": "3",
+              "detail": "Usa la trituradora industrial como una forma destacada de deshacerte de los zombis que llegan a tus defensas."
+            },
+            {
+              "label": "4",
+              "detail": "Reinvierte botín en el equipamiento de los soldados y en mejoras de habilidades a medida que las oleadas se vuelven más grandes."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de logros de ShredDead",
+          "description": "Sigue los hitos y sistemas de progresión que merece la pena revisar mientras avanzas por las oleadas infinitas de ShredDead.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "Consulta la página de ShredDead en Steam para ver la lista de logros vinculada al juego publicado."
+            },
+            {
+              "label": "Hitos",
+              "detail": "Sigue los hitos de oleadas, botín y progresión mientras exploras el bucle principal."
+            },
+            {
+              "label": "Lista de comprobación",
+              "detail": "Mantén una lista de comprobación sencilla de los sistemas que hayas probado, incluidos los soldados, las habilidades y la evolución."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Controles y ajustes de ShredDead",
+          "description": "Revisa los controles y ajustes que hacen que una sesión de ShredDead sea cómoda en tu configuración de escritorio.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Movimiento",
+              "detail": "Revisa el menú de controles del juego para confirmar las teclas de movimiento en tu configuración."
+            },
+            {
+              "label": "Combate",
+              "detail": "Comprueba cómo están asignados los ataques directos y las órdenes a los soldados antes de una larga ronda de oleadas."
+            },
+            {
+              "label": "Ajustes",
+              "detail": "Ajusta las opciones de pantalla y entrada para una sesión incremental cómoda."
+            },
+            {
+              "label": "Entrada",
+              "detail": "Usa el método de entrada compatible que mejor se adapte a tu configuración de escritorio."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Requisitos del sistema y plataformas de ShredDead",
+          "description": "Consulta las plataformas confirmadas en Steam, la fecha de lanzamiento y la disponibilidad de sistemas operativos para ShredDead.",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Windows",
+              "detail": "Compatible según la lista de plataformas de Steam."
+            },
+            {
+              "label": "macOS",
+              "detail": "Compatible según la lista de plataformas de Steam."
+            },
+            {
+              "label": "Linux",
+              "detail": "No aparece como compatible en la lista de plataformas de Steam."
+            },
+            {
+              "label": "Steam",
+              "detail": "ShredDead se lanzó en Steam el 26 de octubre de 2026."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de ShredDead",
+      "description": "Respuestas rápidas a preguntas comunes sobre la jugabilidad, la progresión y las plataformas de ShredDead.",
+      "items": [
+        {
+          "question": "¿Qué es ShredDead?",
+          "answer": "ShredDead es un peculiar juego relajante de estrategia incremental de trituración de zombis de Weird Penguin Games, construido en torno a oleadas infinitas y a la progresión sin condiciones de derrota."
+        },
+        {
+          "question": "¿ShredDead tiene una condición de derrota?",
+          "answer": "No. La descripción oficial de ShredDead indica que el juego no tiene condiciones de derrota, así que puedes seguir experimentando con sus sistemas de progresión."
+        },
+        {
+          "question": "¿Puedo equipar soldados en ShredDead?",
+          "answer": "Sí. Los zombis de ShredDead sueltan botín que puedes usar para equipar a tus soldados, y esos soldados pueden ayudar a gestionar las oleadas infinitas."
+        },
+        {
+          "question": "¿Qué hace el árbol de habilidades de ShredDead?",
+          "answer": "El árbol de habilidades de ShredDead es un sistema de progresión para mejorar cómo eliminas zombis, con ramas que puedes explorar junto con el botín y las mejoras de los soldados."
+        },
+        {
+          "question": "¿Para qué sirve la trituradora en ShredDead?",
+          "answer": "ShredDead incluye una trituradora industrial como forma de deshacerte de los zombis que llegan a las defensas de tu puesto avanzado."
+        },
+        {
+          "question": "¿Qué plataformas admiten ShredDead?",
+          "answer": "ShredDead aparece para Windows y macOS en Steam. Linux no figura como plataforma compatible para ShredDead."
+        },
+        {
+          "question": "¿Cuándo se lanzó ShredDead?",
+          "answer": "ShredDead se lanzó en Steam el 26 de octubre de 2026, según la ficha oficial de la tienda."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar ShredDead?",
+      "description": "Construye defensas, mejora tu árbol de habilidades y tritura oleadas infinitas de zombis con nuestras guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de ShredDead",
+    "overviewDescription": "Aprende el bucle principal de ShredDead, desde combatir oleadas infinitas y recoger botín hasta equipar soldados y mejorar tu puesto avanzado."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de ShredDead",
+    "overviewDescription": "Comprende los sistemas de progresión de ShredDead, incluidos el árbol de habilidades, el equipo de los soldados, la evolución de los zombis y las opciones de mejora."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de ShredDead",
+    "overviewDescription": "Encuentra los detalles de lanzamiento de ShredDead, las plataformas Windows y Mac compatibles y la disponibilidad en Steam."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Steam",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de ShredDead",
+    "about": "La Wiki de ShredDead es un centro de guías independiente creado por fans que cubre mejoras del árbol de habilidades, armas, equipamiento de soldados, defensas, botín, evolución de zombis y estrategias de progresión para jugadores nuevos y veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Wiki de ShredDead. No está afiliada a Weird Penguin Games ni a Valve.",
+    "description": "Estrategia relajante incremental de trituración de zombis. Construye defensas, mejora habilidades y sobrevive a oleadas infinitas.",
+    "playGame": "Jugar a ShredDead en Steam",
+    "officialDiscord": "Discord de ShredDead",
+    "officialYoutube": "YouTube de Weird Penguin Games",
+    "vvBuilder": "Página de ShredDead en Steam",
+    "beginnerGuide": "Guía para principiantes",
+    "mechanicsGuides": "Guías de mecánicas",
+    "platformGuides": "Guías de plataformas",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
