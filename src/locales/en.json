@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "ShredDead Wiki - Skills, Weapons & Strategy",
+      "description": "Explore ShredDead guides for zombie-shredding gameplay, skill tree upgrades, weapons, grunt loadouts, defenses, loot, progression tips, and game updates."
     },
     "hero": {
       "eyebrow": "Relaxing Incremental Zombie Strategy",
@@ -34,293 +34,345 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your ShredDead Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop: fight endless zombie waves, collect loot, and begin building your outpost."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Upgrade System",
+          "description": "Understand how the skill tree, grunt equipment, and loot fit into long-term progression."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Loot and Grunt Gear",
+          "description": "Use zombie loot to equip your grunts and keep your wave-clearing setup improving."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Outpost Defense",
+          "description": "Combine direct attacks, grunt support, and the industrial shredder to handle larger waves."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending ShredDead Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Upgrade System",
+        "Outpost Defense",
+        "Steam Platforms"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "ShredDead Beginner Guide",
+          "description": "Start with the confirmed core loop, from fighting waves to collecting loot and equipping grunts.",
+          "href": "/guide/shreddead-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core System",
+          "title": "ShredDead Upgrade System",
+          "description": "See how the skill tree, grunt equipment, loot, and zombie evolution fit together.",
+          "href": "/mechanics/shreddead-upgrade-system"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Platforms",
+          "title": "ShredDead Steam Platforms",
+          "description": "Review the release date plus Windows, macOS, and Linux availability on Steam.",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Defense",
+          "title": "ShredDead Outpost Defense",
+          "description": "Plan around direct combat, grunt support, the industrial shredder, and endless waves.",
+          "href": "/guide/shreddead-beginner-guide"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Progression",
+          "title": "ShredDead Skill Tree",
+          "description": "Use the branching skill tree to improve how your setup eliminates zombies.",
+          "href": "/mechanics/shreddead-upgrade-system"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Release",
+          "title": "ShredDead Release Date",
+          "description": "Check the Steam launch date and supported desktop platforms in one place.",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is ShredDead?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "ShredDead is a quirky relaxing incremental zombie-shredding game from Weird Penguin Games. It focuses on progression with no lose conditions, pitting players against endless waves while they collect loot, grow a skill tree, and evolve the zombies.",
+        "You can fight directly, equip grunts with loot to help handle the waves, and use an industrial shredder to dispose of zombies. ShredDead launched on Steam for Windows and macOS on October 26, 2026, and this wiki collects practical guides for its core systems."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Weird Penguin Games"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Weird Penguin Games"
+        },
+        {
+          "label": "Release Date",
+          "value": "Oct 26, 2026"
+        },
+        {
+          "label": "Platforms",
+          "value": "Windows & macOS"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Incremental Zombie Strategy"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Game Mode",
+          "value": "Single Player"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Peak CCU",
+          "value": "1,820"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Languages",
+          "value": "14"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the ShredDead Wiki",
+      "description": "Learn ShredDead's core loop, skill tree, grunt loadouts, defenses, zombie evolution, achievements, controls, and Steam platform details.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "ShredDead Beginner Guide",
+          "description": "Learn the core gameplay loop, including endless zombie waves, loot collection, grunt support, skill upgrades, and the industrial shredder.",
+          "href": "/guide/shreddead-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Fight the first waves yourself and learn how zombies move and attack."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Collect loot dropped by defeated zombies and use it to equip your grunts."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Open the skill tree and test upgrades that improve zombie elimination."
+            },
+            {
+              "label": "4",
+              "detail": "Try the industrial shredder and the mad scientist's zombie evolution system."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "ShredDead Skill Tree Guide",
+          "description": "Understand how the branching skill tree supports long-term progression and helps your setup eliminate zombies more efficiently.",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Branches",
+              "detail": "Choose skill branches that match the weapons and grunts you already use."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Upgrades",
+              "detail": "Review each node in the in-game tree before committing your progression resources."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Planning",
+              "detail": "Use the no-lose-condition design to experiment with different upgrade paths."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "ShredDead Weapons and Equipment Guide",
+          "description": "Plan your weapons, loot, and grunt loadouts around the combat role you want your outpost defense to cover.",
+          "href": "/mechanics/shreddead-upgrade-system",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Use zombie loot as the clearest starting point for improving your grunt loadout."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Match equipment choices to the weapons and combat style you use most."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Read each item description in-game before replacing a working loadout."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Keep spare gear available for testing new combinations as waves grow."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "ShredDead Zombie Evolution Guide",
+          "description": "See how the mad scientist's zombie evolution feature adds another progression layer to the endless wave loop.",
+          "href": "/mechanics/shreddead-upgrade-system",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Evolve",
+              "detail": "The mad scientist lets you accelerate zombie evolution as part of the progression loop."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Waves",
+              "detail": "Evolving zombies adds a new layer to the endless wave combat you already face."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Progress",
+              "detail": "Treat evolution as a long-term system to explore alongside skills and loot."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "ShredDead Outpost Defense Guide",
+          "description": "Build a defense that combines your own attacks, grunt support, loot upgrades, and the industrial shredder.",
+          "href": "/guide/shreddead-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Build a reliable defense around your outpost before pushing deeper into the wave cycle."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Combine direct attacks with grunts so your defense deals damage from multiple angles."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Use the industrial shredder as a featured way to dispose of zombies that reach your defenses."
+            },
+            {
+              "label": "4",
+              "detail": "Reinvest loot into grunt equipment and skill upgrades as waves become larger."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "ShredDead Achievements Guide",
+          "description": "Track the milestones and progression systems worth checking as you work through ShredDead's endless waves.",
+          "href": "/guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Steam",
+              "detail": "Check the ShredDead Steam page for the achievement list tied to the released game."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Milestones",
+              "detail": "Track wave, loot, and progression milestones as you explore the core loop."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Checklist",
+              "detail": "Keep a simple checklist of systems you have tried, including grunts, skills, and evolution."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "ShredDead Controls and Settings",
+          "description": "Review the controls and settings that shape a comfortable ShredDead session on your desktop setup.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Movement",
+              "detail": "Review the in-game control menu to confirm the movement keys on your setup."
+            },
+            {
+              "label": "Combat",
+              "detail": "Check how direct attacks and grunt commands are bound before a long wave run."
+            },
+            {
+              "label": "Settings",
+              "detail": "Adjust display and input options for a comfortable incremental session."
+            },
+            {
+              "label": "Input",
+              "detail": "Use the supported input method that feels best for your desktop setup."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "ShredDead System Requirements and Platforms",
+          "description": "Check the confirmed Steam platforms, release date, and operating-system availability for ShredDead.",
+          "href": "/platforms/shreddead-steam-platforms-and-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Windows",
+              "detail": "Supported according to the Steam platform listing."
+            },
+            {
+              "label": "macOS",
+              "detail": "Supported according to the Steam platform listing."
+            },
+            {
+              "label": "Linux",
+              "detail": "Not listed as supported on the Steam platform listing."
+            },
+            {
+              "label": "Steam",
+              "detail": "ShredDead released on Steam on October 26, 2026."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "ShredDead FAQ",
+      "description": "Quick answers to common questions about ShredDead gameplay, progression, and platforms.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is ShredDead?",
+          "answer": "ShredDead is a quirky relaxing incremental zombie-shredding game from Weird Penguin Games, built around endless waves and progression with no lose conditions."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Does ShredDead have a lose condition?",
+          "answer": "No. The official ShredDead description says the game has no lose conditions, so you can keep experimenting with its progression systems."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Can I equip grunts in ShredDead?",
+          "answer": "Yes. ShredDead zombies drop loot that you can use to equip your grunts, and those grunts can help handle the endless waves."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What does the ShredDead skill tree do?",
+          "answer": "The ShredDead skill tree is a progression system for improving how you eliminate zombies, with branches you can explore alongside loot and grunt upgrades."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What is the shredder used for in ShredDead?",
+          "answer": "ShredDead features an industrial shredder as a way to dispose of zombies that reach your outpost defenses."
+        },
+        {
+          "question": "Which platforms support ShredDead?",
+          "answer": "ShredDead is listed for Windows and macOS on Steam. Linux is not listed as a supported platform for ShredDead."
+        },
+        {
+          "question": "When did ShredDead release?",
+          "answer": "ShredDead released on Steam on October 26, 2026, according to the official store listing."
         }
       ]
     },
