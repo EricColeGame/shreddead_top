@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Zombie-Shredding Strategy Guides, Builds & Progression",
   description: "Explore ShredDead with beginner guides, skill tree upgrades, weapons, grunt loadouts, defenses, loot, zombie evolution, and progression strategies.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://shreddead.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://shreddead.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@shreddead.top",
   gameUrl: "https://store.steampowered.com/app/4704520/ShredDead/",
   heroVideoId: "uixjC5D2898", // ShredDead Announcement Trailer by Weird Penguin Games
   social: {

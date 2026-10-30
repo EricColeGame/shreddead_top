@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "ShredDead Wiki",
+    "shortName": "ShredDead",
+    "tagline": "Relaxing Incremental Zombie Strategy",
+    "description": "Explore ShredDead guides for zombie-shredding gameplay, skill tree upgrades, weapons, grunt loadouts, defenses, loot, progression tips, and game updates.",
+    "legalNotice": "Unofficial fan wiki. Not affiliated with Weird Penguin Games."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Relaxing Incremental Zombie Strategy",
+      "title": "ShredDead Wiki",
+      "description": "Explore ShredDead, a quirky zombie-shredding strategy game. Learn about skill tree upgrades, weapons, grunt loadouts, defenses, loot, zombie evolution, and progression strategies.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Release Date: Oct 26, 2026",
+        "Peak CCU: 1,820",
+        "Single Player",
+        "14 Supported Languages"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Play on Steam",
+      "secondaryCta": "Beginner Guide",
+      "tertiaryCta": "Join the Discord",
+      "videoLabel": "Official trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master ShredDead?",
+      "description": "Build defenses, upgrade your skill tree, and shred endless zombie waves with our free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "ShredDead Wiki",
+    "about": "ShredDead Wiki is an independent fan-built guide hub covering skill tree upgrades, weapons, grunt loadouts, defenses, loot, zombie evolution, and progression strategies for new and veteran players.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 ShredDead Wiki. Not affiliated with Weird Penguin Games or Valve.",
+    "description": "Relaxing incremental zombie-shredding strategy. Build defenses, upgrade skills, and survive endless waves.",
+    "playGame": "Play ShredDead on Steam",
+    "officialDiscord": "ShredDead Discord",
+    "officialYoutube": "Weird Penguin Games YouTube",
+    "vvBuilder": "ShredDead Steam Page",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
